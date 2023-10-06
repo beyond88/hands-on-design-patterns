@@ -2,7 +2,9 @@
 Adapter pattern works as a bridge between two incompatible interfaces. This pattern involves a single class which is responsible to join functionalities of independent or incompatible interfaces.
 
 ## Example
+
 ```php
+
 <?php 
 namespace DesignPattern\Adapter\Example;
 
@@ -187,4 +189,5 @@ echo "The same client code can work with other classes via adapter:\n";
 $slackApi = new SlackApi("example.com", "XXXXXXXX");
 $notification = new SlackNotification($slackApi, "Example.com Developers");
 clientOperation($notification);
+
 ```
