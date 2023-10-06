@@ -4,5 +4,5 @@ Design patterns represent the best practices used by experienced object-oriented
 This repository contains various well-known design patterns along with code examples.
 
 ## List of design patterns
-[Adapter Pattern](https://github.com/beyond88/hands-on-design-patterns/tree/main/adapter-pattern)
+[Adapter Pattern](https://github.com/beyond88/hands-on-design-patterns/tree/main/adapter-pattern)<br>
 [Decorator Pattern](https://github.com/beyond88/hands-on-design-patterns/tree/main/decorator-pattern)
