@@ -109,3 +109,8 @@ $chees = new Chees($burger); // passing burger
 $patty = new Patty($burger); // passing burger
 $patty_chees = new Patty($patty); // passing chees burger
 
+$burger->cost(); // 4
+$chees->cost(); // 4.25
+$patty->cost(); // 5
+$patty_chees->cost(); // 5.25 
+
