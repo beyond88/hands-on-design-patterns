@@ -5,4 +5,5 @@ This repository contains various well-known design patterns along with code exam
 
 ## List of design patterns
 [Adapter Pattern](https://github.com/beyond88/hands-on-design-patterns/tree/main/adapter-pattern)<br>
-[Decorator Pattern](https://github.com/beyond88/hands-on-design-patterns/tree/main/decorator-pattern)
+[Decorator Pattern](https://github.com/beyond88/hands-on-design-patterns/tree/main/decorator-pattern)<br>
+[Facade Pattern](https://github.com/beyond88/hands-on-design-patterns/tree/main/facade-pattern)
